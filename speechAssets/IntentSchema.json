@@ -1,11 +1,11 @@
 {
   "intents": [
     {
-      "intent": "RecipeIntent",
+      "intent": "WeaknessIntent",
       "slots": [
       {
-        "name" : "Item",
-        "type": "LIST_OF_ITEMS"
+        "name" : "Type",
+        "type": "LIST_OF_TYPES"
       }
      ]
     },
